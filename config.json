@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authconnect",
+        "uuid": 32721021,
+        "checksum": "inr3umh"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
